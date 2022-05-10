@@ -3,7 +3,7 @@ This supplementary material contains all MATLAB© programs that have been writte
 
 Note: This is a sequence of codes that should be used in the order shown below. The first code produces an .xlsx (EXCEL file) output file that is then read from the next code and so on. The last code in this sequence is the non-isothermal diffusion model that uses all the information contained in the single .xlsx file to calculate the diffusion process. 
 
-•	Geotherm.m: This code was used to calculate P-T paths. 
+•	Geotherm.m: This code was used to calculate P-T paths.\
 •	COH_geotherm.m: This code was used to calculate fluid composition along the model P-T paths using following .mat files that contain fugacity coefficients:
 o	fugacity_coefficient_CH4.mat
 o	fugacity_coefficient_CO.mat
