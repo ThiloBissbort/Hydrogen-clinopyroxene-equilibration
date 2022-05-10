@@ -20,6 +20,6 @@ o	yH2O_extrapolated.mat\
 o	interp2D.m\
 •	H2Ocpx_sol.m: This code calculates the solubility concentration along the P-T path as a function of water fugacity, temperature, and pressure.\
 •	non_isothermal_diffusion.m: This code is the actual non-isothermal model that reads the input data from the .xlsx file\
-•	reeq_coolingrate.m: This code can be used to calculate figure 7 in this paper.\
+•	reeq_coolingrate.m: This code can be used to calculate a re-equilibration map.
 
 Please cite using:
