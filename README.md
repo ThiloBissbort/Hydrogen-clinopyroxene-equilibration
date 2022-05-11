@@ -23,3 +23,4 @@ o	interp2D.m\
 •	reeq_coolingrate.m: This code can be used to calculate a re-equilibration map.
 
 Please cite using:
+https://doi.org/10.5281/zenodo.6537993
